@@ -1,0 +1,209 @@
+/home/beakhongha/RobotArm/xArm-Python-SDK/setup.py:10: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.util import convert_path
+running egg_info
+creating ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info
+writing ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/PKG-INFO
+writing dependency_links to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/dependency_links.txt
+writing top-level names to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/top_level.txt
+writing manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+reading manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm
+copying xarm/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm
+copying xarm/version.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/servo.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/record.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/gripper.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/events.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/studio.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/report.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/base.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/robotiq.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/code.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/xarm.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/ft_sensor.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/parse.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/grammar_coroutine.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/grammar_async.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/gpio.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/base_board.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/utils.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/modbus_tcp.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/decorator.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+copying xarm/x3/track.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+copying xarm/tools/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+copying xarm/tools/list_ports.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+copying xarm/tools/blockly_tool.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+copying xarm/tools/threads.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+copying xarm/tools/utils.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper
+copying xarm/wrapper/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper
+copying xarm/wrapper/xarm_api.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper
+copying xarm/wrapper/studio_api.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core
+copying xarm/core/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core
+copying xarm/core/version.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/_blockly_highlight.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/_blockly_base.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/_blockly_handler.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/_blockly_tool.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+copying xarm/tools/blockly/_blockly_node.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config
+copying xarm/core/config/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config
+copying xarm/core/config/x_code.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config
+copying xarm/core/config/x_config.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+copying xarm/core/comm/uxbus_cmd_protocol.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+copying xarm/core/comm/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+copying xarm/core/comm/serial_port.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+copying xarm/core/comm/base.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+copying xarm/core/comm/socket_port.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper
+copying xarm/core/wrapper/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper
+copying xarm/core/wrapper/uxbus_cmd_tcp.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper
+copying xarm/core/wrapper/uxbus_cmd_ser.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper
+copying xarm/core/wrapper/uxbus_cmd.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper
+creating /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+copying xarm/core/utils/__init__.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+copying xarm/core/utils/convert.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+copying xarm/core/utils/crc16.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+copying xarm/core/utils/debug_print.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+copying xarm/core/utils/log.py -> /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils
+running install
+running install_lib
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/servo.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/record.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/gripper.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/events.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/studio.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/report.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/base.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/robotiq.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/code.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/xarm.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/ft_sensor.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/parse.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/grammar_coroutine.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/grammar_async.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/gpio.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/base_board.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/utils.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/modbus_tcp.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/decorator.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/x3/track.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/list_ports.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/_blockly_highlight.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/_blockly_base.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/_blockly_handler.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/_blockly_tool.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly/_blockly_node.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/blockly_tool.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/threads.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/tools/utils.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper/xarm_api.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/wrapper/studio_api.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config/x_code.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/config/x_config.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm/uxbus_cmd_protocol.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm/serial_port.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm/base.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/comm/socket_port.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper/uxbus_cmd_tcp.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper/uxbus_cmd_ser.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/wrapper/uxbus_cmd.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/version.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core
+creating /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils/__init__.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils/convert.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils/crc16.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils/debug_print.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/core/utils/log.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils
+copying /home/beakhongha/RobotArm/build/xArm-Python-SDK/build/lib/xarm/version.py -> /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/servo.py to servo.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/record.py to record.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/gripper.py to gripper.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/events.py to events.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/studio.py to studio.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/report.py to report.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/base.py to base.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/robotiq.py to robotiq.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/code.py to code.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/xarm.py to xarm.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/ft_sensor.py to ft_sensor.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/parse.py to parse.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/grammar_coroutine.py to grammar_coroutine.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/grammar_async.py to grammar_async.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/gpio.py to gpio.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/base_board.py to base_board.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/utils.py to utils.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/modbus_tcp.py to modbus_tcp.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/decorator.py to decorator.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/x3/track.py to track.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/list_ports.py to list_ports.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/_blockly_highlight.py to _blockly_highlight.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/_blockly_base.py to _blockly_base.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/_blockly_handler.py to _blockly_handler.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/_blockly_tool.py to _blockly_tool.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly/_blockly_node.py to _blockly_node.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/blockly_tool.py to blockly_tool.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/threads.py to threads.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/tools/utils.py to utils.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper/xarm_api.py to xarm_api.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/wrapper/studio_api.py to studio_api.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config/x_code.py to x_code.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/config/x_config.py to x_config.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm/uxbus_cmd_protocol.py to uxbus_cmd_protocol.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm/serial_port.py to serial_port.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm/base.py to base.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/comm/socket_port.py to socket_port.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper/uxbus_cmd_tcp.py to uxbus_cmd_tcp.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper/uxbus_cmd_ser.py to uxbus_cmd_ser.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/wrapper/uxbus_cmd.py to uxbus_cmd.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/version.py to version.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils/convert.py to convert.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils/crc16.py to crc16.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils/debug_print.py to debug_print.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/core/utils/log.py to log.cpython-310.pyc
+byte-compiling /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xarm/version.py to version.cpython-310.pyc
+running install_egg_info
+Copying ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info to /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xArm_Python_SDK-1.13.30-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/beakhongha/RobotArm/build/xArm-Python-SDK/install.log'

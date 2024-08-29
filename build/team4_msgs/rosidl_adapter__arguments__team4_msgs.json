@@ -1,0 +1,7 @@
+{
+  "package_name": "team4_msgs",
+  "non_idl_tuples": [
+    "/home/beakhongha/RobotArm/team4_msgs:srv/PutOnIcecream.srv",
+    "/home/beakhongha/RobotArm/team4_msgs:msg/StoragyStatus.msg"
+  ]
+}

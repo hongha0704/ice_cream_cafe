@@ -1,0 +1,20 @@
+[0.716s] Invoking command in '/home/beakhongha/RobotArm/xArm-Python-SDK': PYTHONPATH=/home/beakhongha/RobotArm/build/xArm-Python-SDK/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/xArm-Python-SDK build --build-base /home/beakhongha/RobotArm/build/xArm-Python-SDK/build install --record /home/beakhongha/RobotArm/build/xArm-Python-SDK/install.log --single-version-externally-managed
+[0.736s] /home/beakhongha/RobotArm/xArm-Python-SDK/setup.py:10: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[0.736s]   from distutils.util import convert_path
+[0.971s] running egg_info
+[0.973s] writing ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/PKG-INFO
+[0.973s] writing dependency_links to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/dependency_links.txt
+[0.973s] writing top-level names to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/top_level.txt
+[0.976s] reading manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+[0.976s] adding license file 'LICENSE'
+[0.977s] writing manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+[0.977s] running build
+[0.977s] running build_py
+[0.980s] running install
+[0.980s] running install_lib
+[0.983s] running install_egg_info
+[0.985s] removing '/home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xArm_Python_SDK-1.13.30-py3.10.egg-info' (and everything under it)
+[0.985s] Copying ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info to /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xArm_Python_SDK-1.13.30-py3.10.egg-info
+[0.985s] running install_scripts
+[1.002s] writing list of installed files to '/home/beakhongha/RobotArm/build/xArm-Python-SDK/install.log'
+[1.023s] Invoked command in '/home/beakhongha/RobotArm/xArm-Python-SDK' returned '0': PYTHONPATH=/home/beakhongha/RobotArm/build/xArm-Python-SDK/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/xArm-Python-SDK build --build-base /home/beakhongha/RobotArm/build/xArm-Python-SDK/build install --record /home/beakhongha/RobotArm/build/xArm-Python-SDK/install.log --single-version-externally-managed

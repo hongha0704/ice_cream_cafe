@@ -1,0 +1,3 @@
+source;share/xArm-Python-SDK/hook/pythonpath.ps1
+source;share/xArm-Python-SDK/hook/pythonpath.dsv
+source;share/xArm-Python-SDK/hook/pythonpath.sh

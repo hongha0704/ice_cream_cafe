@@ -1,0 +1,16 @@
+running egg_info
+writing ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/PKG-INFO
+writing dependency_links to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/dependency_links.txt
+writing top-level names to ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/top_level.txt
+reading manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/xArm-Python-SDK/xArm_Python_SDK.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+removing '/home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xArm_Python_SDK-1.13.30-py3.10.egg-info' (and everything under it)
+Copying ../build/xArm-Python-SDK/xArm_Python_SDK.egg-info to /home/beakhongha/RobotArm/install/xArm-Python-SDK/lib/python3.10/site-packages/xArm_Python_SDK-1.13.30-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/beakhongha/RobotArm/build/xArm-Python-SDK/install.log'

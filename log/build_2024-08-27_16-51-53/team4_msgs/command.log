@@ -1,0 +1,4 @@
+Invoking command in '/home/beakhongha/RobotArm/build/team4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/beakhongha/RobotArm/install/aris_pkg:/opt/ros/humble /usr/bin/cmake --build /home/beakhongha/RobotArm/build/team4_msgs -- -j16 -l16
+Invoked command in '/home/beakhongha/RobotArm/build/team4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/beakhongha/RobotArm/install/aris_pkg:/opt/ros/humble /usr/bin/cmake --build /home/beakhongha/RobotArm/build/team4_msgs -- -j16 -l16
+Invoking command in '/home/beakhongha/RobotArm/build/team4_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/beakhongha/RobotArm/install/aris_pkg:/opt/ros/humble /usr/bin/cmake --install /home/beakhongha/RobotArm/build/team4_msgs
+Invoked command in '/home/beakhongha/RobotArm/build/team4_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/beakhongha/RobotArm/install/aris_pkg:/opt/ros/humble /usr/bin/cmake --install /home/beakhongha/RobotArm/build/team4_msgs

@@ -1,0 +1,6 @@
+msg/StoragyStatus.idl
+msg/StoragyStatus.msg
+srv/PutOnIcecream.idl
+srv/PutOnIcecream.srv
+srv/PutOnIcecream_Request.msg
+srv/PutOnIcecream_Response.msg
