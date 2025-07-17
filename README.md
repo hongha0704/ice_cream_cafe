@@ -34,25 +34,23 @@ https://youtu.be/z3UYvFTg2U8
 ## 2. 👥 프로젝트 팀 구성 및 역할분담
 | 이름 | 역할 |
 |------|------|
-| 백홍하(팀장) | /robot4/Vision, Main Controller GUI, ROS 통신 |
-| 이하빈 | /robot4/Vision, ROS 통신 |
-| 장연호 | /robot4/Navigation, EMQX Cloud 통신 |
-| 정찬원 | /robot4/Navigation, 영상 편집 |
-| 이경민 | /robot1/Vision |
-| 최정호 | /robot1/Vision |
-| 문준웅 | /robot1/Navigation, Main Controller GUI |
-| 정민섭 | /robot1/Navigation, 바이탈 체크 기능 개발 |
+| 임용진(팀장) | 프로젝트 계획 수립 |
+| 박정한 | GUI 소프트웨어 구현, DATABASE 구현, 로봇팔 동작 구현, ROS2 통신 노드 구성 |
+| 이재혁 | 경로주행 노드 구현, ROS2 통신 시스템 구축 및 통합, 전체 시스템 통합, Storagy 주행제어, 얼굴인식 개발 |
+| 백홍하 | 로봇팔(ARIS) 동작 구현, YOLO 객체인식(캡슐, 로봇암, 사람 등) 구현, 객체 좌표 변환 |
+| 이성민 | GUI 소프트웨어 구현, Storagy 주행제어, 로봇암 좌표 변환 구현 |
+| 이혁진 | Storagy 주행제어, 프로젝트 산출물 자료 정리, 얼굴인식 개발 |
 
 &nbsp;
 
 ## 3. 🗓 프로젝트 구현 일정
-**진행 일자: 25.6.27(금) ~ 25.7.3(목) (7일)**
-<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_project_management_지능1.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="project_management"></img>
+**진행 일자: 24.07.01(월) ~ 24.08.29(목) (58일)**
+<img src="image/250717_프로젝트 수행일정.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="project_management"></img>
 
 &nbsp;
 
 ## 4. 📌 SKILLS
-<img src="https://github.com/user-attachments/assets/56b745e0-50b0-4b99-a87b-6f2b2d81046c" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="project_management"></img>   
+<img src="image/250717_Skills.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="project_management"></img>   
 
 &nbsp;
 
