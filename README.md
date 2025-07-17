@@ -54,35 +54,30 @@ https://youtu.be/z3UYvFTg2U8
 
 &nbsp;
 
-## 5. ⚒️ System Architecture
-<img src="https://github.com/user-attachments/assets/29244f93-ce0d-49af-ace1-c578e8ecdbf7" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+## 5. 🤖 Hardware
+<img src="image/250717_hardware.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
 
 &nbsp;
 
-## 6. 🛠️ Node Architecture
-<img src="https://github.com/user-attachments/assets/cd8f4409-d660-482d-b8d1-5f7763afaa6c" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+## 6. ⚒️ System Architecture
+<img src="image/250717_system_architecture.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+
+&nbsp;
+
+<img src="image/250717_system_architecture2.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
 
 &nbsp;
 
 ## 7. 🎬 System Flow
-<img src="https://github.com/user-attachments/assets/8bbb32ba-580e-48f6-9579-3763697eb3b8" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+<img src="image/250717_system_flow.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
 
 &nbsp;
-
-- **프로젝트 시나리오**   
-<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_1.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
-<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_2.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
-<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_3.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
-
-&nbsp;
-
-
 
 ## 8. 🔍 프로젝트 기대효과
 
 ### **기대 효과**
-- 자율주행 로봇 + 네트워크 자원 최적화 통해 안정적 시스템 구현
-- 클라우드 기반 구조로 병원 규모 확장 시에도 유연하게 대응 가능
-- 반복 업무 자동화로 간호사는 전문 업무에 집중 가능
+- 편리하고 다양한 서비스로 고객 증가
+- 아이스크림 제조, 서빙 자동화로 인건비 절약
+- 재고/발주 관리 효율 증가
 
 &nbsp;
