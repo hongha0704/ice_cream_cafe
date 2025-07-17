@@ -1,3 +1,0 @@
-[console_scripts]
-aris = aris_pkg.motion3:main
-
