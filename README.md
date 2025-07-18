@@ -34,7 +34,7 @@ https://youtu.be/z3UYvFTg2U8
 #### [3. 🗓 프로젝트 구현 일정](#3--프로젝트-구현-일정-1)   
 #### [4. 📌 SKILLS](#4--skills-1)   
 #### [5. 🤖 Hardware](#5--hardware-1)   
-#### [6. ⚒️ System Architecture](#7-%EF%B8%8F-node-architecture-1)   
+#### [6. ⚒️ System Architecture](#6-%EF%B8%8F-system-architecture-1)   
 #### [7. 🎬 System Flow](#7--system-flow-1)   
 #### [8. 🔍 프로젝트 기대효과](#8--프로젝트-기대효과-1)   
 
