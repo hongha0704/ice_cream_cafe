@@ -36,7 +36,8 @@ https://youtu.be/z3UYvFTg2U8
 #### [5. 🤖 Hardware](#5--hardware-1)   
 #### [6. ⚒️ System Architecture](#6-%EF%B8%8F-system-architecture-1)   
 #### [7. 🎬 System Flow](#7--system-flow-1)   
-#### [8. 🔍 프로젝트 기대효과](#8--프로젝트-기대효과-1)   
+#### [8. ✨ 주요 기능](#8--주요-기능-1)   
+#### [9. 🔍 프로젝트 기대효과](#9--프로젝트-기대효과-1)   
 
 ---
 
@@ -90,7 +91,31 @@ https://youtu.be/z3UYvFTg2U8
 
 &nbsp;
 
-## 8. 🔍 프로젝트 기대효과
+## 8. ✨ 주요 기능
+
+### 0. YOLO 커스텀 데이터셋 제작
+- 객체 별 기능   
+<img src="https://github.com/user-attachments/assets/9355c5a9-8360-442b-bdee-32bd7f947c10" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+- 데이터셋 라벨링 및 모델 학습 (Object Detection / Instance Segmentation)   
+<img src="https://github.com/user-attachments/assets/683a0e96-9263-4ce5-b784-8996f309ef29" width="42%" height="42%" title="px(픽셀) 크기 설정" alt="image"></img> <img src="https://github.com/user-attachments/assets/7eb357b4-8a23-49c3-86ee-4a828d5a10ce" width="35%" height="35%" title="px(픽셀) 크기 설정" alt="image"></img>
+
+| 라벨링 과정 | 웹캠 객체인식 화면 |
+|--|--|
+| <img width="959" height="721" alt="labeling" src="https://github.com/user-attachments/assets/8c6625df-bd3b-4d15-9cb9-429ffcad58ab" /> | <img width="641" height="574" alt="YOLO_객체인식 장면" src="https://github.com/user-attachments/assets/036c5d2c-c10a-41e1-a387-2823846396e3" /> |
+
+&nbsp;
+### 1. 캡슐 인식   
+- 3개의 ROI 구역 설정 → 구역 내에 캡슐 인식 시 로봇 동작   
+
+| A Zone | B Zone | C Zone |
+|--|--|--|
+| ![capsule_pick_A-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9615a1e4-4a63-40a6-b7b2-af957fd27e89) | ![capsule_pick_B-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cb8d58b5-54d0-4b16-b868-0e1c7191c8f1) | ![capsule_pick_C-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34758a02-57e7-49e8-8946-1906e7858b38) |
+
+
+
+
+## 9. 🔍 프로젝트 기대효과
 
 ### **기대 효과**
 - 편리하고 다양한 서비스로 고객 증가
