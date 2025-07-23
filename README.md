@@ -112,7 +112,7 @@ https://youtu.be/z3UYvFTg2U8
 | ![capsule_pick_A-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9615a1e4-4a63-40a6-b7b2-af957fd27e89) | ![capsule_pick_B-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cb8d58b5-54d0-4b16-b868-0e1c7191c8f1) | ![capsule_pick_C-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34758a02-57e7-49e8-8946-1906e7858b38) |
 
 - 캡슐이 다른 ROI 구역을 지나면 그 구역에 캡슐을 올려 놓았다고 인식되는 문제 발생
-  - 캡슐이 구역 내에서 인식된 상태로 일정 시간(2초)이 지나야 로봇이 동작하도록 수
+  - 캡슐이 구역 내에서 인식된 상태로 일정 시간(2초)이 지나야 로봇이 동작하도록 수정
  
 | 개선 전 | 개선 후 |
 |--|--|
@@ -131,7 +131,8 @@ https://youtu.be/z3UYvFTg2U8
 
 &nbsp;
 ### 3. 사람 접근 시 로봇 일시정지   
-- 안전사고 예방을 위해 일시정지 기능을 구현 → segmentation mask 이용   
+- 안전사고 예방을 위해 일시정지 기능을 구현 → segmentation mask 이용
+- 사람이 일정 거리 이하로 접근 시 일시 정지, 사람이 멀어지면 동작 재개   
 <img src="https://github.com/user-attachments/assets/99400c6a-6e56-4c74-846b-8af61d86e10c" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 &nbsp;
@@ -194,7 +195,7 @@ https://youtu.be/z3UYvFTg2U8
 
 | 실제 영상 | 웹캠 영상 |
 |--|--|
-| ![cup_trash-ezgif com-resize](https://github.com/user-attachments/assets/d0833260-5181-4f41-866f-ed77693082ad) |  |
+| ![cup_trash-ezgif com-resize](https://github.com/user-attachments/assets/d0833260-5181-4f41-866f-ed77693082ad) | ![cup_trash_webcam-ezgif com-resize](https://github.com/user-attachments/assets/c924f60f-18d7-4073-b88b-f4f6183d51ce) |
 
 &nbsp;
 ## 9. 🔍 프로젝트 기대효과
