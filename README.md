@@ -163,7 +163,7 @@ https://youtu.be/z3UYvFTg2U8
 &nbsp;
 ### 5. 아이스크림 컵 서빙 (with STORAGY)
 - 시나리오   
-<img src="https://github.com/user-attachments/assets/6bd7a4d0-4a10-452c-84c9-15524e2d2352" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+<img src="https://github.com/user-attachments/assets/6bd7a4d0-4a10-452c-84c9-15524e2d2352" width="85%" height="85%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 - 컵 홀더 인식
   - YOLOv8 모델 활용하여 STORAGY 위의 ‘cup_holder’ 객체 인식   
@@ -186,7 +186,7 @@ https://youtu.be/z3UYvFTg2U8
 &nbsp;
 ### 6. 아이스크림 컵 수거 (with STORAGY)
 - 시나리오   
-<img src="https://github.com/user-attachments/assets/e3cd08ca-aec8-403a-bb24-93c31fc72c0c" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="image"></img>
+<img src="https://github.com/user-attachments/assets/e3cd08ca-aec8-403a-bb24-93c31fc72c0c" width="85%" height="85%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 - 아이스크림 컵 수거
   - STORAGY가 ARIS 옆에 도착하면 ROS2 통신으로 도착 정보 전송
