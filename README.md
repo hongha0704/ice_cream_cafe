@@ -62,7 +62,7 @@ https://youtu.be/z3UYvFTg2U8
 &nbsp;
 
 ## 3. 🗓 프로젝트 구현 일정
-**진행 일자: 24.07.01(월) ~ 24.08.29(목) (58일)**
+**진행 일자: 24.07.01(월) ~ 24.08.29(목) (2개월)**
 <img src="image/250717_프로젝트 수행일정.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="project_management"></img>
 
 &nbsp;
